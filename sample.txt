@@ -1,2 +1,2 @@
 Den ca con khi cung hieu duoc git
-add: Dang ky thay doi trong index
+add: Dang ky thay doi trong index2
