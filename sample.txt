@@ -1,4 +1,1 @@
-Den ca con khi cung hieu duoc git
-add: Dang ky thay doi trong index2
-real conflict 2 
-add issue2
+=== Git Branch ===
